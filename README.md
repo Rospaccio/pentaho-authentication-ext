@@ -1,7 +1,7 @@
 ## pentaho-authentication-ext [![Build Status](https://travis-ci.org/Rospaccio/pentaho-authentication-ext.svg?branch=pentaho-5.4)](https://travis-ci.org/Rospaccio/pentaho-authentication-ext)
 ### Authentication extension mechanism for Pentaho Business Intelligence Server
 
-**pentaho-authentication-ext** is a plugin for Pentaho BI Server that provides the platform with additional
+**pentaho-authentication-ext** is a plugin for Pentaho BA Server that provides the platform with additional
 authentication and login capabilities, in the form of a
 spring security filter and a bunch of support classes. The goal of this project is to provide a transparent authentication and autologin
 mechanism to let users switch between a different web application and Pentaho in an
@@ -95,4 +95,4 @@ Every request for a ticket must carry the authentication parameters, so the comp
 
 
 ### Compatibility
-pentaho-authentication-ext is currently compatible with Pentaho BI v. 5.4 and 6 (preview release).
+pentaho-authentication-ext is currently compatible with Pentaho BA v. 5.4 and 6 (preview release).
