@@ -61,7 +61,7 @@ Once the external app has received the ticket, it can send a redirect response t
 Once the ticket is issued, it is valid for a certain amount of time (configurable in `pentaho-authentication-ext.properties`) and it can be used by a request sent by the user's browser to flawlessly log in to pentaho.
 
 ### Configuration
-The external applications and the corresponding users that are allowed to use the mechanism can be configured in a file called mapping.json that must be placed in $PENTAHO-ROOT/pentaho-solutions/system. The file must comply to the following format:
+The external applications and the corresponding users that are allowed to use the mechanism can be configured in a file called `pentaho-transparent-authentication-mappings.json` that must be placed in $PENTAHO-ROOT/pentaho-solutions/system. The file must comply to the following format:
 
 		{
 		    "testApp": {
