@@ -1,3 +1,5 @@
+## WARNING! This project has moved [here](https://github.com/Rospaccio/pentaho-transparent-authentication) (as a Maven module)
+
 ## pentaho-authentication-ext [![Build Status](https://travis-ci.org/Rospaccio/pentaho-authentication-ext.svg?branch=pentaho-5.4)](https://travis-ci.org/Rospaccio/pentaho-authentication-ext)
 ### Authentication extension mechanism for Pentaho Business Intelligence Server
 
